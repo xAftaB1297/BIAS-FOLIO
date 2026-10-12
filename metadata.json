@@ -1,0 +1,6 @@
+{
+  "name": "BIAS FOLIO",
+  "description": "Investor Psychology & Portfolio Diagnostic Tool designed for the Indian financial market - An educational behavioural-finance tool for college students and individual investors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
